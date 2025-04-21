@@ -47,5 +47,5 @@ We explore convolutional neural networks for handwritten‑digit recognition on 
 | 4‑Model Ensemble (3 VGG + LeNet) | 98.34 %             | 0.0511          |
 | 5‑Model Ensemble (3 VGG + LeNet + AlexNet) | 98.50 % | 0.0487          |
 
-The final **3‑Model VGG** ensemble also achieves **98.70 %** accuracy on the  test set 
+The final **3‑Model VGG** ensemble also achieves **98.62 %** accuracy on the  test set 
 

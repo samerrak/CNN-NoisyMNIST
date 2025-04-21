@@ -1,6 +1,6 @@
 # CNN Ensemble for QMNIST Digit Classification
 
-This repository implements and evaluates three custom CNN architectures (AlexNet‑inspired, LeNet‑based, and VGG16‑derived) on the QMNIST digit dataset, then combines them in an ensemble classifier to maximize accuracy. The final ensemble achieves a **98.61 %** validation accuracy and a **98.70 %** test accuracy on the public Kaggle leaderboard ECSE551-A3-Report.pdf](file-service://file-VHRHuZGRh3H2Yag3WgX92Z).
+This repository implements and evaluates three custom CNN architectures (AlexNet‑inspired, LeNet‑based, and VGG16‑derived) on the QMNIST digit dataset, then combines them in an ensemble classifier to maximize accuracy. The final ensemble achieves a **98.61 %** validation accuracy and a **98.70 %** test accuracy on the public Kaggle leaderboard 
 
 ---
 
@@ -32,7 +32,7 @@ We explore convolutional neural networks for handwritten‑digit recognition on 
    We combine multiple models to leverage their complementary strengths:  
    - **3‑Model VGG Ensemble** (best three VGG16 variants) → 98.61 % val. accuracy  
    - **4‑Model Ensemble** (3 VGG + 1 LeNet) → 98.34 %  
-   - **5‑Model Ensemble** (3 VGG + LeNet + AlexNet) → 98.50 % ECSE551-A3-Report.pdf](file-service://file-VHRHuZGRh3H2Yag3WgX92Z).
+   - **5‑Model Ensemble** (3 VGG + LeNet + AlexNet) → 98.50 % 
 
 ---
 

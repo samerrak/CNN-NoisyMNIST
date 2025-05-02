@@ -1,6 +1,7 @@
 # CNN Ensemble for QMNIST Digit Classification
 
-This repository implements and evaluates three custom CNN architectures (AlexNet‑inspired, LeNet‑based, and VGG16‑derived) on the QMNIST digit dataset, then combines them in an ensemble classifier to maximize accuracy. The final ensemble achieves a **98.61 %** validation accuracy and a **98.70 %** test accuracy on the public Kaggle leaderboard 
+This repository implements and evaluates three custom CNN architectures (AlexNet‑inspired, LeNet‑based, and VGG16‑derived) on the QMNIST digit dataset, then combines them in an ensemble classifier to maximize accuracy. The final ensemble achieves a **98.61 %** validation accuracy and a **98.70 %** test accuracy on the public Kaggle leaderboard. 
+Came in 5th/50 students.
 
 ---
 
